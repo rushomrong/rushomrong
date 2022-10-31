@@ -1,3 +1,4 @@
+# About Me
 - 👋 Hi, I’m @rushomrong
 - 👀 I’m interested in ...Programming
 - 🌱 I’m currently learning ...Android Apps Development
@@ -8,7 +9,7 @@
 - 📱 Law Info Of Garos - https://play.google.com/store/apps/details?id=com.rusho.garoslawinfo
 
 # Developed App: Percentage-Of-Love
-<img src="https://github.com/rushomrong/Percentage-Of-Love/raw/master/app/src/main/res/drawable/flogo.png" align="left" width="200" hspace="10" vspace="10">
+<img src="https://github.com/rushomrong/Percentage-Of-Love/raw/master/app/src/main/res/mipmap-hdpi/ic_launcher.png" align="left" width="100" hspace="10" vspace="10">
 
 Percentage Of Love is available on the Google Play Store.
 
