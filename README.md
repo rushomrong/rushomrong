@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushomrong" alt="rushomrong" /></a> </p>
 
-- 🔭 I’m currently working on [Shopify Ecom. Project Management & Development](thekiddospacestore.com)
+- 🔭 I’m currently working on [Shopify Ecom. Project Management & Development]
 
 - 🌱 I’m currently learning **Flutter / Dart Programming**
 
