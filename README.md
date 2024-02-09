@@ -15,20 +15,6 @@
 
 - 📫 How to reach me **Skype : rusho.mrong**, Email:- **rushomarak@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/romar.mrong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="romar.mrong" height="30" width="40" /></a>
-</p>
-
-## 💻 Languages and Tools
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,wordpress,java,ps,flutter,dart,ios" />
-</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=github,firebase,discord,ai,mysql,vscode,sqlite,xd" />
-</p>
-
-
 <h3 align="left">- ಠ_ಠ - Android Apps by Rusho - ಠ_ಠ - </h3>
 - 📱 Percentage Of Love - https://play.google.com/store/apps/details?id=com.rusho.percentageoflove <br>
 - 📱 Law Info Of Garos - https://play.google.com/store/apps/details?id=com.rusho.garoslawinfo
@@ -37,11 +23,18 @@
 <img src="https://github.com/rushomrong/Percentage-Of-Love/raw/master/app/src/main/res/mipmap-hdpi/ic_launcher.png" align="left" width="100" hspace="10" vspace="10">
 
 Percentage Of Love is available on the Google Play Store.
-
 <p align="left">
 <a href="https://play.google.com/store/apps/details?id=com.rusho.percentageoflove">
 <img alt="Get it on Google Play" height="80" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
 </a>
+</p>
+
+## 💻 Languages and Tools
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,wordpress,java,ps,flutter,dart,ios" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=github,firebase,discord,ai,mysql,vscode,sqlite,xd" />
 </p>
 
 ## 🏴 GitHub Profile Stats
