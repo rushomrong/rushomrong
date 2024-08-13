@@ -31,7 +31,7 @@ Percentage Of Love is available on the Google Play Store.
 
 ## 💻 Languages and Tools
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,wordpress,java,ps,flutter,dart,ios" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,wordpress,java,ps,flutter,dart,tailwind,react,nextjs,express,nodejs,ai" />
 </p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=github,firebase,discord,ai,mysql,vscode,sqlite,xd" />
